@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.779" height="48.385" viewBox="0 0 43.779 48.385">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.769" x2="1.374" y2="1.147" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cdff"/>
+      <stop offset="0.048" stop-color="#0cf"/>
+      <stop offset="1" stop-color="#009eff"/>
+    </linearGradient>
+    <filter id="Polygon_Copy" x="0" y="0" width="43.779" height="48.385" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#9eadbc" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="home" transform="translate(-34 -24)">
+    <g transform="matrix(1, 0, 0, 1, 34, 24)" filter="url(#Polygon_Copy)">
+      <path id="Polygon_Copy-2" data-name="Polygon Copy" d="M19.811,1.155a4,4,0,0,1,4,0L38.7,9.751a4,4,0,0,1,2,3.464V30.408a4,4,0,0,1-2,3.464l-14.889,8.6a4,4,0,0,1-4,0l-14.889-8.6a4,4,0,0,1-2-3.464V13.215a4,4,0,0,1,2-3.464Z" transform="translate(0.08 1.38)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Polygon_Copy_2" data-name="Polygon Copy 2" transform="translate(0 -1)">
+      <path id="Polygon_Copy_2-2" data-name="Polygon Copy 2" d="M0,0,12.859,7.424A2.283,2.283,0,0,1,14,9.4v8.148" transform="translate(57.006 31.087)" fill="none"/>
+      <path id="Polygon_Copy_2-3" data-name="Polygon Copy 2" d="M0,0,12.859,7.424A2.283,2.283,0,0,1,14,9.4v8.148" transform="translate(57.006 31.087)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="house-black-silhouette-without-door" transform="translate(47.924 34.568)">
+      <path id="Path_315" data-name="Path 315" d="M14.58,11.865a.7.7,0,0,0-.058-1.007l-6.6-5.774A.823.823,0,0,0,6.851,5.1L.229,11.165A.7.7,0,0,0,.2,12.171l.166.173a.724.724,0,0,0,.994.076l.495-.443v6.488a.72.72,0,0,0,.72.72H5.153a.72.72,0,0,0,.72-.72V13.926H9.166v4.539a.681.681,0,0,0,.677.72h2.735a.72.72,0,0,0,.72-.72v-6.4l.305.268c.168.148.522.029.789-.265Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

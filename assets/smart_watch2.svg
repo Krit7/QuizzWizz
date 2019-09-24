@@ -1,0 +1,7 @@
+<svg id="smart_watch" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="bound" width="60" height="60" fill="none"/>
+  <path id="Rectangle" d="M0,0H15a0,0,0,0,1,0,0V11a1.5,1.5,0,0,1-1.5,1.5H1.5A1.5,1.5,0,0,1,0,11V0A0,0,0,0,1,0,0Z" transform="translate(22.5 42.5)" fill="#1592e6"/>
+  <path id="Path" d="M12.5,25A12.5,12.5,0,1,0,0,12.5,12.5,12.5,0,0,0,12.5,25Z" transform="translate(17.5 17.5)" fill="#fff"/>
+  <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M1.5,0h12A1.5,1.5,0,0,1,15,1.5v11a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1.5A1.5,1.5,0,0,1,1.5,0Z" transform="translate(22.5 5)" fill="#1592e6"/>
+  <path id="Oval" d="M17.5,35A17.5,17.5,0,0,1,5.126,5.126,17.5,17.5,0,1,1,29.874,29.874,17.386,17.386,0,0,1,17.5,35Zm0-30a12.5,12.5,0,1,0,8.839,3.661A12.417,12.417,0,0,0,17.5,5Z" transform="translate(12.5 12.5)" fill="#1592e6"/>
+</svg>

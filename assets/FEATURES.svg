@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.779" height="48.385" viewBox="0 0 43.779 48.385">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.33" y1="-0.318" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbe587"/>
+      <stop offset="1" stop-color="#fe8656"/>
+    </linearGradient>
+    <filter id="Polygon_Copy" x="0" y="0" width="43.779" height="48.385" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#9eadbc" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="FEATURES" transform="translate(-34 -24)">
+    <g transform="matrix(1, 0, 0, 1, 34, 24)" filter="url(#Polygon_Copy)">
+      <path id="Polygon_Copy-2" data-name="Polygon Copy" d="M19.811,1.155a4,4,0,0,1,4,0L38.7,9.751a4,4,0,0,1,2,3.464V30.408a4,4,0,0,1-2,3.464l-14.889,8.6a4,4,0,0,1-4,0l-14.889-8.6a4,4,0,0,1-2-3.464V13.215a4,4,0,0,1,2-3.464Z" transform="translate(0.08 1.38)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Polygon_Copy_2" data-name="Polygon Copy 2" transform="translate(0 -1)">
+      <path id="Polygon_Copy_2-2" data-name="Polygon Copy 2" d="M0,0,12.859,7.424A2.283,2.283,0,0,1,14,9.4v8.148" transform="translate(57.006 31.087)" fill="none"/>
+      <path id="Polygon_Copy_2-3" data-name="Polygon Copy 2" d="M0,0,12.859,7.424A2.283,2.283,0,0,1,14,9.4v8.148" transform="translate(57.006 31.087)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M9.525,19.282v-.959a.531.531,0,0,1,1.061,0v.959a.531.531,0,0,1-1.061,0Zm4.59-2.388-3.936-2.07a.266.266,0,0,0-.247,0L6,16.893a1.326,1.326,0,0,1-1.924-1.4l.752-4.383a.268.268,0,0,0-.076-.235l-3.184-3.1A1.326,1.326,0,0,1,2.3,5.511l4.4-.639a.266.266,0,0,0,.2-.145L8.867.739a1.326,1.326,0,0,1,2.379,0l1.968,3.987a.267.267,0,0,0,.2.145l4.4.639a1.327,1.327,0,0,1,.735,2.262l-3.184,3.1a.264.264,0,0,0-.076.235L16.04,15.5a1.325,1.325,0,0,1-1.924,1.4ZM2.451,6.561a.293.293,0,0,0-.052.012l.087-.017Zm16.966,6.307-.911-.3a.53.53,0,1,1,.328-1.009l.911.3a.531.531,0,0,1-.164,1.035A.517.517,0,0,1,19.417,12.868ZM.026,12.527a.531.531,0,0,1,.341-.669l.911-.3a.53.53,0,1,1,.328,1.009l-.911.3a.53.53,0,0,1-.668-.341ZM15.067,2.373a.531.531,0,0,1-.117-.741l.563-.775a.531.531,0,1,1,.859.624l-.563.775a.53.53,0,0,1-.741.117ZM4.3,2.252l-.563-.775A.531.531,0,1,1,4.6.854l.563.775a.531.531,0,0,1-.117.741A.529.529,0,0,1,4.3,2.252Z" transform="translate(44.991 37.753)" fill="#fff"/>
+  </g>
+</svg>

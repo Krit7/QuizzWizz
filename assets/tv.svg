@@ -1,0 +1,5 @@
+<svg id="tv" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="bound" width="60" height="60" fill="none"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M49,32.5H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H49a1,1,0,0,1,1,1V31.5A1,1,0,0,1,49,32.5ZM24.655,10.11,29.345,22.5h2.993l4.777-12.39H33.808l-2.853,8.785h-.069l-2.87-8.785Zm-12.067,0v2.555h3.5V22.5H19.08V12.665h3.5V10.11Z" transform="translate(5 12.5)" fill="#b9c2ca"/>
+  <rect id="Rectangle" width="45" height="2.5" rx="1" transform="translate(7.5 47.5)" fill="#b9c2ca"/>
+</svg>

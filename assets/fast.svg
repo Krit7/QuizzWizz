@@ -1,0 +1,5 @@
+<svg id="fast" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <rect id="Rectangle_10" data-name="Rectangle 10" width="30" height="30" fill="none"/>
+  <path id="Path_3" data-name="Path 3" d="M7.5,22.523a.75.75,0,0,0,1.374.416l7.849-11.773A.75.75,0,0,0,16.1,10H10V2.477a.75.75,0,0,0-1.374-.416L.777,13.834A.75.75,0,0,0,1.4,15H7.5Z" transform="translate(11.25 2.5)" fill="#7f888f"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M4,18.75a1.5,1.5,0,0,1-1.5-1.5V16.5A1.5,1.5,0,0,1,4,15h7a1.5,1.5,0,0,1,1.5,1.5v.751a1.5,1.5,0,0,1-1.5,1.5Zm-2.5-7.5A1.5,1.5,0,0,1,0,9.75V9A1.5,1.5,0,0,1,1.5,7.5H7.25A1.5,1.5,0,0,1,8.75,9v.75a1.5,1.5,0,0,1-1.5,1.5ZM4,3.75a1.5,1.5,0,0,1-1.5-1.5V1.5A1.5,1.5,0,0,1,4,0h7a1.5,1.5,0,0,1,1.5,1.5v.75A1.5,1.5,0,0,1,11,3.75Z" transform="translate(1.25 6.25)" fill="#7f888f"/>
+</svg>

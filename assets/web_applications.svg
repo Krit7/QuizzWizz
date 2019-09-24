@@ -1,0 +1,5 @@
+<svg id="web_applications" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="bound" width="60" height="60" fill="none"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M11.5,12.5H.5A.5.5,0,0,1,0,12V10.5A.5.5,0,0,1,.5,10h7V1a1,1,0,0,1,1-1h3a1,1,0,0,1,1,1v9h7a.5.5,0,0,1,.5.5V12a.5.5,0,0,1-.5.5Z" transform="translate(20 40)" fill="#b9c2ca"/>
+  <path id="Combined_Shape-2" data-name="Combined Shape" d="M49,30H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H49a1,1,0,0,1,1,1V29A1,1,0,0,1,49,30ZM6,12.5a1,1,0,0,0-1,1V14a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1v-.5a1,1,0,0,0-1-1Zm0-5a1,1,0,0,0-1,1V9a1,1,0,0,0,1,1H29a1,1,0,0,0,1-1V8.5a1,1,0,0,0-1-1Z" transform="translate(5 12.5)" fill="#b9c2ca"/>
+</svg>

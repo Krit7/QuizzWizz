@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.779" height="48.385" viewBox="0 0 43.779 48.385">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.33" y1="-0.318" x2="0.768" y2="1.386" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cd52fe"/>
+      <stop offset="1" stop-color="#9013fe"/>
+    </linearGradient>
+    <filter id="Polygon_Copy" x="0" y="0" width="43.779" height="48.385" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#9eadbc" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="about" transform="translate(-34 -24)">
+    <g transform="matrix(1, 0, 0, 1, 34, 24)" filter="url(#Polygon_Copy)">
+      <path id="Polygon_Copy-2" data-name="Polygon Copy" d="M19.811,1.155a4,4,0,0,1,4,0L38.7,9.751a4,4,0,0,1,2,3.464V30.408a4,4,0,0,1-2,3.464l-14.889,8.6a4,4,0,0,1-4,0l-14.889-8.6a4,4,0,0,1-2-3.464V13.215a4,4,0,0,1,2-3.464Z" transform="translate(0.08 1.38)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Polygon_Copy_2" data-name="Polygon Copy 2" transform="translate(0 -1)">
+      <path id="Polygon_Copy_2-2" data-name="Polygon Copy 2" d="M0,0,12.859,7.424A2.283,2.283,0,0,1,14,9.4v8.148" transform="translate(57.006 31.087)" fill="none"/>
+      <path id="Polygon_Copy_2-3" data-name="Polygon Copy 2" d="M0,0,12.859,7.424A2.283,2.283,0,0,1,14,9.4v8.148" transform="translate(57.006 31.087)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="icon" transform="translate(47.625 39.625)">
+      <path id="Path_316" data-name="Path 316" d="M7.8,0a7.8,7.8,0,1,0,7.8,7.8A7.8,7.8,0,0,0,7.8,0ZM9.418,12.081q-.6.238-.96.362a2.533,2.533,0,0,1-.833.125,1.66,1.66,0,0,1-1.133-.356,1.148,1.148,0,0,1-.4-.9,3.277,3.277,0,0,1,.03-.435c.02-.148.053-.314.1-.5l.5-1.774c.044-.17.082-.332.113-.482A2.139,2.139,0,0,0,6.875,7.7a.643.643,0,0,0-.14-.473A.8.8,0,0,0,6.2,7.094a1.408,1.408,0,0,0-.4.059c-.135.042-.253.079-.349.116l.133-.546q.493-.2.944-.344a2.788,2.788,0,0,1,.851-.144,1.629,1.629,0,0,1,1.117.35,1.162,1.162,0,0,1,.392.908q0,.116-.027.407a2.725,2.725,0,0,1-.1.535L8.26,10.2c-.041.142-.077.3-.11.486A2.568,2.568,0,0,0,8.1,11.1a.593.593,0,0,0,.158.48.883.883,0,0,0,.546.128,1.583,1.583,0,0,0,.413-.064,2.349,2.349,0,0,0,.334-.112ZM9.329,4.9a1.192,1.192,0,0,1-.841.325A1.2,1.2,0,0,1,7.643,4.9a1.037,1.037,0,0,1-.352-.787,1.047,1.047,0,0,1,.352-.789A1.2,1.2,0,0,1,8.488,3a1.183,1.183,0,0,1,.841.328,1.063,1.063,0,0,1,0,1.577Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

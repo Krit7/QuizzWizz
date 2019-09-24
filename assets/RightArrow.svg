@@ -1,0 +1,5 @@
+<svg id="Right_Arrow" data-name="Right Arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Shape" d="M0,0H24V24H0Z" fill="none"/>
+  <rect id="Rectangle" width="2" height="18" rx="1" transform="translate(0 13) rotate(-90)" fill="#4f2498"/>
+  <path id="Path_94" data-name="Path 94" d="M1.707-7.707a1,1,0,0,0-1.414,0,1,1,0,0,0,0,1.414l6,6a1,1,0,0,0,1.383.03l6-5.5a1,1,0,0,0,.061-1.413,1,1,0,0,0-1.413-.061L7.03-2.384Z" transform="translate(19 19) rotate(-90)" fill="#4f2498"/>
+</svg>
